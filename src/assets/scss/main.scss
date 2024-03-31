@@ -1,0 +1,66 @@
+@charset "UTF-8";
+
+/* Document */
+/******************************
+
+[Table of Contents]
+
+1. Variables
+2. Base
+3. Helpers
+4. Mixins
+5. Animation
+6. Layout
+7. Components
+8. Pages
+9. Vendors
+******************************/
+
+/* =>> Variables <<= */
+@import './abstracts/variables';
+
+
+/* =>> Base <<= */
+@import './base/general';
+
+
+/* =>> Helpers <<= */
+@import './abstracts/helpers';
+
+
+/* =>> Mixins <<= */
+@import './abstracts/mixins';
+
+/* =>> Animation <<= */
+@import './abstracts/animation';
+
+
+/* =>> Layout <<= */
+@import './layout/header';
+@import './layout/navigation';
+@import './layout/footer';
+
+
+/* =>> Components <<= */
+@import './components/heroSection';
+@import './components/servicesSection';
+@import './components/clientsSection';
+@import './components/technologiesSection';
+@import './components/whySononoSection';
+@import './components/teamSection';
+@import './components/contactSection';
+@import './components/reachUsSection';
+@import './components/mapSection';
+
+// UI
+@import './components/UI/socailLinks';
+@import './components/UI/langsSwitcher';
+@import './components/UI/jumbToTop';
+
+/* =>> Pages <<= */
+@import './pages/home';
+@import './pages/gtc';
+
+
+/* =>> Vendors <<= */
+@import './vendors/vuetify'

@@ -1,0 +1,85 @@
+.technologies {
+  .btn-effect {
+    content: "";
+    position: absolute;
+    background-color: #F0F0F0;
+    transition: .2s;
+    z-index: -1;
+  }
+  &__head {
+    &--title {
+      font-size: 37px;
+      font-family: $main-font, sans-serif;
+      font-weight: 700;
+      color: $text-color;
+      text-transform: uppercase;
+      line-height: 1.2;
+    }
+
+    &--description {
+      font-size: 20px;
+      color: $text-color;
+      font-weight: 400;
+      color: $text-color;
+      margin: 20px 0 0;
+    }
+
+  }
+
+  &__filter {
+    margin-top: 20px;
+    &--actions {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      padding: 40px 0;
+      @include mq(md) {
+        gap: 15px;
+      }
+    }
+
+    &--view {
+      &--content {
+        display: grid;
+        gap: 80px 0;
+        grid-template-rows: repeat(2, 1fr);
+      }
+      .view-title {
+        font-size: 18px;
+        text-transform: uppercase;
+        color: $text-color;
+        font-weight: 400;
+        margin-bottom: 25px;
+      }
+      &--icons {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        gap: 20px 30px;
+        img {
+          display: block;
+          width: 40px;
+          filter: grayscale(1);
+          transition: .2s;
+          &:hover {
+            filter: grayscale(0);
+          }
+          &.x-big-size {
+            width: 100px;
+          }
+          &.big-size {
+            width: 60px;
+          }
+          &.small-size {
+            width: 30px;
+          }
+          &.medium-size {
+            width: 50px;
+          }
+        }
+      }
+    }
+
+  }
+
+}

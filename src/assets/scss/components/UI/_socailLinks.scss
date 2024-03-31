@@ -1,0 +1,25 @@
+.social {
+  display: flex;
+  gap: 0 8px;
+  a {
+    line-height: 1px;
+    display: flex;
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+  }
+  .social-link {
+    width: 30px;
+    height: 30px;
+    border-radius: 4px;
+    &.linkedin {
+      background-color: #00639C;
+    }
+    &.instagram {
+      background-image: linear-gradient(-120deg, #C20464, #F5B026);
+    }
+    &.facebook {
+      background-color: #147EBB;
+    }
+  }
+}

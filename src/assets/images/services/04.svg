@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="71" height="67.028" viewBox="0 0 71 67.028">
+  <g id="blockchian-icon" transform="translate(-710 -130.827)">
+    <path id="Path_339" data-name="Path 339" d="M742.236,140l21.75,65.573V140l-38.073,52.719V152.867h55.153l-62.181,20.1,62.181,19.748-38.829,12.854,45.412-32.6-61.736-20.1,16.324,52.707V140l45.412,32.971-61.736,19.748,55.153-39.853-17.08,52.707-45.1-32.6L763.986,140l17.08,52.719Z" transform="translate(-7.814 -8.122)" fill="none" stroke="#1c2c39" stroke-width="0.5"/>
+    <g id="Path_337" data-name="Path 337" transform="translate(711.088 131.878)" fill="none">
+      <path d="M44.982,0,62.164,12.473l6.563,20.182L62.164,52.838,44.982,65.311H23.744L6.563,52.838,0,32.656,6.563,12.473,23.744,0Z" stroke="none"/>
+      <path d="M 23.90673828125 0.5 L 6.988029479980469 12.78251647949219 L 0.5257720947265625 32.65571212768555 L 6.988021850585938 52.52887725830078 L 23.90673828125 64.81142425537109 L 44.81963348388672 64.81142425537109 L 61.73835372924805 52.52887725830078 L 68.20063018798828 32.65571212768555 L 61.73835372924805 12.78252792358398 L 44.81963348388672 0.5 L 23.90673828125 0.5 M 23.74438095092773 0 L 44.98199081420898 0 L 62.16358947753906 12.47337341308594 L 68.72640228271484 32.65571212768555 L 62.16358947753906 52.83803176879883 L 44.98199081420898 65.31142425537109 L 23.74438095092773 65.31142425537109 L 6.562782287597656 52.83803176879883 L 0 32.65571212768555 L 6.562789916992188 12.47336196899414 L 23.74438095092773 0 Z" stroke="none" fill="#1c2c39"/>
+    </g>
+    <circle id="Ellipse_22" data-name="Ellipse 22" cx="1" cy="1" r="1" transform="translate(717 183.827)" fill="#1c2c39"/>
+    <circle id="Ellipse_25" data-name="Ellipse 25" cx="1" cy="1" r="1" transform="translate(755 195.827)" fill="#1c2c39"/>
+    <circle id="Ellipse_26" data-name="Ellipse 26" cx="1" cy="1" r="1" transform="translate(755 130.827)" fill="#1c2c39"/>
+    <circle id="Ellipse_27" data-name="Ellipse 27" cx="1" cy="1" r="1" transform="translate(734 130.827)" fill="#1c2c39"/>
+    <circle id="Ellipse_28" data-name="Ellipse 28" cx="1" cy="1" r="1" transform="translate(717 143.827)" fill="#1c2c39"/>
+    <circle id="Ellipse_29" data-name="Ellipse 29" cx="1" cy="1" r="1" transform="translate(772 183.827)" fill="#1c2c39"/>
+    <circle id="Ellipse_30" data-name="Ellipse 30" cx="1" cy="1" r="1" transform="translate(772 143.827)" fill="#1c2c39"/>
+    <circle id="Ellipse_31" data-name="Ellipse 31" cx="1" cy="1" r="1" transform="translate(734 195.827)" fill="#1c2c39"/>
+    <ellipse id="Ellipse_23" data-name="Ellipse 23" cx="1" cy="1.5" rx="1" ry="1.5" transform="translate(710 163.827)" fill="#1c2c39"/>
+    <ellipse id="Ellipse_24" data-name="Ellipse 24" cx="1" cy="1.5" rx="1" ry="1.5" transform="translate(779 163.827)" fill="#1c2c39"/>
+  </g>
+</svg>

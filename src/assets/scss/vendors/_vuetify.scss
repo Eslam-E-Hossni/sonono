@@ -1,0 +1,23 @@
+#__nuxt {
+  .theme--light.v-application {
+    background-color: $main-bg;
+  }
+}
+.v-enter-active,
+.v-leave-active {
+  transition: opacity 0.3s linear;
+}
+
+.v-enter-from,
+.v-leave-to {
+  opacity: 0;
+}
+
+.theme--light.v-text-field--filled > .v-input__control > .v-input__slot {
+  background-color: transparent !important;
+  border: 2px solid $main-color;
+}
+
+.theme--light.v-text-field > .v-input__control > .v-input__slot:before {
+  border-color: $main-color !important;
+}

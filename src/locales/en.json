@@ -1,0 +1,332 @@
+{
+  "header": {
+    "logoTxt": "Sonono",
+    "links": [
+      {
+        "title": "Home",
+        "link": "/"
+      },
+      {
+        "title": "Team",
+        "link": "/team"
+      },
+      {
+        "title": "About Us",
+        "link": "#about-us"
+      },
+      {
+        "title": "references",
+        "link": "/reference"
+      },
+      {
+        "title": "Contact",
+        "link": "/contact"
+      }
+    ]
+  },
+  "navigation": {
+    "links": [
+      {
+        "title": "Home",
+        "link": "/"
+      },
+      {
+        "title": "Team",
+        "link": "/team"
+      },
+      {
+        "title": "About us",
+        "link": "#about-us"
+      },
+      {
+        "title": "References",
+        "link": "/reference"
+      },
+      {
+        "title": "Contact",
+        "link": "/contact"
+      }
+    ]
+  },
+  "pages": {
+    "home": {
+      "sections": {
+        "hero": {
+          "titleLine-1": "Web development",
+          "titleLine-2": "and",
+          "titleLine-3": "digital solutions",
+          "description": "We create a working product with a thoughtful and large-scale architecture. We develop, launch and supervise the introduction as well as the training."
+        },
+        "services": {
+          "cards": [
+            {
+              "title": "UI | UX Design",
+              "content": "There are three reactions to a design - yes, no and WOW! The \"Wow\" is the reaction we aim for! As UI and UX designers, we deal with the visible surface, i.e. the user experience design, and adapt it to the user."
+            },
+            {
+              "title": "Mobile Apps",
+              "content": "sonono has the knowledge and skills to develop reliable, scalable and feature-rich mobile applications. Be it for iOS or Android. We develop apps that are user-friendly and modern in design. We use the programming languages Flutter, Kotlin, Java for Android and Swift and Flutter for iOS."
+            },
+            {
+              "title": "Software development",
+              "content": "We support your business infrastructure with scalable software that improves important aspects of your business. Use our industry-specific knowledge to develop and scale your new business software solution.",
+              "customClass": "sw"
+            },
+            {
+              "title": "Blockchain development",
+              "content": "sonono has already successfully launched many blockchain projects. Thanks to our extensive experience and broad expertise, we are among the experts in this field and can support you in understanding this technology better and building your project on the blockchain basis. We also offer blockchain training so that you can get ahead without our help."
+            }
+          ],
+          "button": "learn more"
+        },
+        "clients": {
+          "title": "CLIENTS & PARTNERS",
+          "description": "Thank you very much for the great cooperation and trust!"
+        },
+        "technologies": {
+          "head": {
+            "title": "TECHNOLOGIEN UND PLATFORMEN",
+            "description": "We use the technologies and platforms below for development"
+          },
+          "filtering": {
+            "btns": [
+              {
+                "title": "WEb",
+                "dataFilter": "WebFilterView"
+              },
+              {
+                "title": "CMS",
+                "dataFilter": "PlatformsFilterView"
+              },
+              {
+                "title": "mobile",
+                "dataFilter": "MobileFilterView"
+              },
+              {
+                "title": "DevOps",
+                "dataFilter": "DevOpsFilterView"
+              },
+              {
+                "title": "blockchain",
+                "dataFilter": "BlockchainFilterView"
+              }
+            ],
+            "views": {
+              "web": {
+                "backend": "back end",
+                "frontend": "front end"
+              },
+              "mobile": "Mobile",
+              "cms": "CMS",
+              "devOps": "devOps"
+            }
+          }
+        },
+        "whySonono": {
+          "head": {
+            "why": "why"
+          },
+          "content": {
+            "cards": [
+              {
+                "number": 1,
+                "content": {
+                  "question": "Which values define us?",
+                  "answer": "A company's values tell you whether a company suits you or not. sonono is well organized, we bring enthusiasm to what we do and are always cheerful and sociable. Our way of working ensures excellent quality and we know how to solve problems in a simple way."
+                }
+              },
+              {
+                "number": 2,
+                "content": {
+                  "question": "How did the story of sonono come about?",
+                  "answer": "The founders of sonono GmbH have always had other goals than just being employed in one company. In mid-2019 they took the step into self-employment and founded sonono GmbH. The company has grown very quickly, survived the Corona crisis very well and is looking to the future with great confidence and curiosity."
+                }
+              },
+              {
+                "number": 3,
+                "content": {
+                  "question": "How do we want to differentiate ourselves from other providers?",
+                  "answer": "The sonono team is young, but has a lot of experience, since all team members have been involved in programming and design at a young age and have already worked on many projects. The team is motivated, flexible and always up to date when it comes to the latest technologies and blockchain"
+                }
+              },
+              {
+                "number": 4,
+                "content": {
+                  "question": "Why should someone start a cooperation with us and not a competitor?",
+                  "answer": "sonono offers good value for money for top Swiss quality. Even after the end of the project, the customer can rely on long-term and stable support. We appreciate the projects and do our best in what we do"
+                }
+              }
+            ]
+          }
+        },
+        "team": {
+          "title": {
+            "the": "The",
+            "team": "team"
+          },
+          "description": "We have been available to our customers since 2018 and are more motivated than ever! We look forward to getting to know you and hearing about your project!",
+          "cards": []
+        },
+        "contact": {
+          "title": "CONTACT<br/>US",
+          "description": "We would be happy to invite you for a coffee and let us be inspired by your idea! We then do our best to bring your project to life!",
+          "form": {
+            "fname": "are",
+            "lname": "Full name",
+            "mobile": "mobile",
+            "email": "E-mail address",
+            "message": "Message",
+            "checkbox": ["By clicking „Submit“ you agree to the ", "Privacy Policy ", "and ", "Conditions ", "from sonono"]
+          }
+        }
+      }
+    },
+    "contact": {
+      "title": "We look forward to hearing from you !<br/>Our team is available to answer any questions and provide non-binding information!",
+      "address": "sonono GmbH<br/>Freie Strasse 45<br/>CH-4001 Basel<br/>Switzerland"
+    },
+    "gtc": {
+      "pageTitle": "General terms and conditions (GTC)",
+      "textSections": [
+        {
+          "title": "Usage",
+          "text": "These General Terms and Conditions form an integral part of the contractual relationship between sonono GmbH (hereinafter \"sonono\") and the business partner, supplier or customer (hereinafter \"customer\"). sonono is entitled to amend these General Terms and Conditions at any time, provided that the interests of the customer are not unreasonably impaired thereby. Terms and conditions of the customer to the contrary shall only be valid if they have been expressly accepted by sonono in writing."
+        },
+        {
+          "title": "Order placement and execution",
+          "text": "The prices quoted in the offers are estimates based on current knowledge and comparable projects. They are not lump sums or binding cost information within the meaning of Art. 373 of the Swiss Code of Obligations. A contract shall be deemed concluded as soon as sonono has confirmed the customer's order in writing. The written order confirmation is authoritative for execution and deadlines. Software, software components or services that are not included therein will be invoiced additionally. Project changes, additions or incorrect cooperation on the part of the customer may result in additional costs and also release sonono from its obligation to meet deadlines. sonono undertakes to execute the order carefully and to protect the manufacturing and business secrets of the customer and reserves the right to call in third parties as required to fulfil the contract."
+        },
+        {
+          "title": "Extent of use",
+          "text": "With the conclusion of the contract and complete payment, the customer acquires the non-exclusive, non-transferable and unlimited right to use the software defined in the order confirmation (hereinafter the \"Software\") for the customer's own purposes. The customer may not modify, assign or sublicense the software to third parties. sonono GmbH shall hand over the software to the customer in the current version as well as in the individualized version as ordered. New versions (releases) and updates do not form part of the contract and must be purchased additionally by the customer. The number of workstations or users for which the customer may use the software is specified in the order confirmation."
+        },
+        {
+          "title": "Hosting/Installation and Acceptance",
+          "text": "The software is hosted at sonono for the customer, unless the order confirmation provides otherwise (e.g. installation of the software at the customer). After release (or installation), the customer must immediately check the software and immediately notify sonono in writing of any defects. If the customer does not check the software within 10 days of release or installation, or if he commissions it without reservation, it shall be deemed to have been handed over in perfect condition and approved by the customer."
+        },
+        {
+          "title": "Prices and terms of payment",
+          "text": "The offer and order confirmation are based on a smooth order processing. Additional expenses as well as services not explicitly offered and agreed upon are charged at CHF 160.00 / h (web and apps development, design) respectively CHF 200.00 / h (consulting, conception) and CHF 220.00 / h (block chain development). All prices are in Swiss Francs (CHF) and exclusive of value added tax. Expenses for travel that are to be undertaken in connection with the order and have been agreed with the client will be charged to the client (basis 1st class SBB Half-Fare travelcard, from sonono location to client location or car expenses CHF 0.90 / km). Travel time will not be charged. The terms of payment are defined in the order confirmation. Unless otherwise agreed, a down payment of 50% of the price offered is due when the order is placed; any further invoices are issued monthly, at the latest upon acceptance. All invoices are payable within 10 days. In the event of late payment, sonono reserves the right to immediately discontinue services and is entitled to charge default interest of 8% p.a. from the due date without reminder. sonono reserves the right to claim further damages caused by delay. In the event of a delay in payment of more than 10 days, all claims that sonono has against the customer become due for payment immediately. Previously agreed services on workdays before 08.00 and after 18.00 hours as well as on holidays and weekends will be charged with a surcharge of 50%. All prices are quoted in Swiss Francs without value added tax. All-inclusive prices also apply without any other fees, ancillary costs and expenses."
+        },
+        {
+          "title": "Intellectual property rights",
+          "text": "All intellectual property rights, in particular the copyright to the source code of the software developed or programmed by sonono, remain exclusively with sonono. If the software includes components that sonono has licensed from third parties, all rights to these parts shall remain with the respective third party. The customer only receives a non-transferable right of use (license) for the entire software. In the case of text, image, sound or video files supplied, the customer warrants that no third-party industrial property rights are infringed. The customer defends claims of third parties at his own expense and risk."
+        },
+        {
+          "title": "Secrecy",
+          "text": "The customer undertakes to keep the software, in particular the source code, any instructions for use or descriptions, completely secret and to take all necessary measures to prevent access by third parties. He transfers this obligation to his employees and other auxiliary persons to whom the software is made accessible. The customer undertakes not to make or have made more copies of the software than are necessary for use in accordance with the contract. sonono undertakes in return to keep confidential all business-relevant data (in particular company figures) of the customer."
+        },
+        {
+          "title": "Maintenance subscription",
+          "text": "The costs for maintenance work shall be invoiced separately in accordance with the separate maintenance contract."
+        },
+        {
+          "title": "Warranty",
+          "text": "sonono warrants that the software will function properly under the operating systems specified in the order confirmation. sonono warrants only those functions which are expressly stated in the order confirmation. If the software is defective in this respect, the customer is entitled to demand subsequent improvement. Any further warranty is hereby expressly excluded. sonono does not assume any warranty for defects in the software after the customer has made changes to the software."
+        },
+        {
+          "title": "Liability",
+          "text": "sonono shall only be liable for damages caused intentionally or through gross negligence. Any further liability, in particular for direct or indirect damages and consequential damages (e.g. loss of data, loss of profit) is excluded. The liability for auxiliary persons is completely excluded."
+        },
+        {
+          "title": "Applied law and place of jurisdiction",
+          "text": "The contractual relationship between sonono and the customer shall be governed exclusively by substantive Swiss law to the exclusion of the provisions of the Federal Act on International Private Law (IPRG) and the Vienna Convention on the International Sale of Goods (CISG). The place of jurisdiction for all disputes shall be sonono's place of business. sonono is, however, entitled to sue the customer at his place of business or residence."
+        }
+      ],
+      "signature": "Basel, October 2019"
+    },
+    "dataProtection": {
+      "pageTitle": "Data protection and privacy",
+      "textSections": [
+        {
+          "title": "Privacy policy for the use of Google Analytics",
+          "text": "This website uses Google Analytics, a web analytics service provided by Google Inc. (\"Google\"). Google Analytics uses \"cookies\", which are text files placed on your computer, to help the website analyze how users use the site. The information generated by the cookie about your use of the website will generally be transmitted to and stored by Google on servers in the United States. However, if IP anonymisation is activated on this website, your IP address will be shortened by Google in advance within member states of the European Union or in other signatory states to the Agreement on the European Economic Area.<br /><br /> Only in exceptional cases will the full IP address be transmitted to a Google server in the USA where it will be shortened. Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. The IP address transmitted by your browser as part of Google Analytics is not combined with other data from Google.<br/><br/>You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website. By using this website, you consent to the processing of data about you by Google in the manner and for the purposes set out above."
+        }
+      ]
+    },
+    "impressum": {
+      "pageTitle": "Legal notice",
+      "textSections": [
+        {
+          "title": "Operator responsible for the website",
+          "text": "sonono GmbH<br/>Freie Strasse 45<br/>CH-4001 Basel<br/>Switzerland<br/><a href=\"mailto:info@sonono.ch\">info@sonono.ch</a><br/><a href=\"tel:+41 78 846 93 92\">+41 78 846 93 92</a>"
+        },
+        {
+          "title": "Information about the operator of the site",
+          "text": "Comm. reg. no.: CH-270.4.006.564-9<br/>Registered office: Basel, Switzerland<br/>Phone: <a href=\"tel:+41 78 846 93 92\">+41 78 846 93 92</a></br>Email:  <a href=\"mailto:info@sonono.ch\">info@sonono.ch</a><br/>Contact: Waleed El Sayed<br/>IBAN no.: CH16 8080 8007 9072 6647 7"
+        },
+        {
+          "title": "As of",
+          "text": "01 July 2020"
+        }
+      ]
+    }
+  },
+  "footer": {
+    "top": {
+      "cols": [
+        {
+          "title": "Where can you find us?",
+          "location": true,
+          "link": {
+            "title": "sonono GmbH<br/>Freie Strasse 45<br/>CH-4001 Basel<br/>Switzerland",
+            "href": "https://maps.app.goo.gl/Fq1nhB61Y3cPtptJA"
+          }
+        },
+        {
+          "title": "Sitemap",
+          "orderLastInMobile": true,
+          "links": [
+            {
+              "title": "Home",
+              "href": "/"
+            },
+            {
+              "title": "References",
+              "href": "/reference"
+            },
+            {
+              "title": "Team",
+              "href": "/team"
+            },
+            {
+              "title": "About us",
+              "href": "#about-us",
+              "scroll": true
+            },
+            {
+              "title": "Legal notice",
+              "href": "/impressum"
+            },
+            {
+              "title": "Data Protection & Privacy",
+              "href": "/data-protection"
+            },
+            {
+              "title": "GTC",
+              "href": "/gtc"
+            }
+          ]
+        },
+        {
+          "title": "contact us",
+          "links": [
+            {
+              "title": "+41 78 846 93 92",
+              "href": "tel:+41 78 846 93 92",
+              "icon": "mdi-phone"
+            },
+            {
+              "title": "info@sonono.ch",
+              "href": "mailto:info@sonono.ch",
+              "icon": "mdi-email"
+            }
+          ]
+        }
+      ]
+    },
+    "bottom": {
+      "copyright": "© 2010-2024  Sonono GmbH  All rights reserved"
+    }
+  }
+}

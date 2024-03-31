@@ -1,0 +1,65 @@
+.reach-us {
+  &__logo {
+    .circle {
+      width: 250px !important;
+      height: 250px !important;
+      img {
+        width: 230px !important;
+        max-width: 230px !important;
+      }
+    }
+  }
+
+  &__text {
+    display: flex;
+    flex-direction: column;
+    gap: 50px 0;
+    &--description {
+      font-size: 25px;
+      font-family: $main-font, sans-serif;
+      color: $text-color;
+    }
+
+    &--bottom {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+
+    &--links {
+      &:not(:first-child) {
+        display: flex;
+        align-items: flex-end;
+        align-self: flex-end;
+        .reach-us__text--links__link {
+          margin-bottom: 0;
+        }
+      }
+
+      &__link {
+        font-size: 16px;
+        margin-bottom: 8px;
+        color: $text-color;
+        &.custom {
+          line-height: 1.5;
+        }
+        &:last-child {
+          margin-bottom: 0;
+        }
+        a {
+          color: $text-color;
+          font-size: 14px;
+          transition: .2s;
+          &:hover {
+            color: $main-color;
+          }
+          &:first-child {
+            margin-right: 30px;
+          }
+        }
+      }
+
+    }
+
+  }
+}
