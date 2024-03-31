@@ -1,0 +1,14 @@
+.home {
+  position: relative;
+  .sonono-img {
+    position: fixed;
+    transform: translateX(-50%);
+    top: 15%;
+    left: 57%;
+    width: 120px;
+    z-index: 96;
+    &.stop-fixed {
+      position: absolute;
+    }
+  }
+}

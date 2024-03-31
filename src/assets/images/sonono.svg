@@ -1,0 +1,10 @@
+<svg id="logo_center_cleints" data-name="logo center cleints" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="138.834" height="183.796" viewBox="0 0 138.834 183.796">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#35d8e3"/>
+      <stop offset="1" stop-color="#4d33b2"/>
+    </linearGradient>
+  </defs>
+  <path id="Path" d="M44.114,70.444c-.044-5.087-.282-10.545-.768-16.306s-1.2-11.227-2.031-16.314L12.022,12.1A293.807,293.807,0,0,1,31.124,42.9,290.587,290.587,0,0,1,44.114,70.444Z" transform="translate(23.051 23.193)" fill="url(#linear-gradient)"/>
+  <path id="Path-2" data-name="Path" d="M46.168,0l60.6,69.8,5.128-.989a27.074,27.074,0,0,1,26.942,8.4l-6.167,4.546-7.3,8.509a81.746,81.746,0,0,1-13.545,14.368c-4.394,3.648-9.975,8.31-18.558,11.634a56.561,56.561,0,0,1-18.344,3.756,14.447,14.447,0,0,0-4.576.756,17.222,17.222,0,0,0-9.514,8.634l-26,54.379a66.494,66.494,0,0,0,7.725-33.472,63.512,63.512,0,0,0-2.243-14.218A80.894,80.894,0,0,0,30,138.881,84.508,84.508,0,0,0,0,157l66.672-59.83A210.64,210.64,0,0,0,62.9,50.64,210.82,210.82,0,0,0,46.168,0Z" transform="translate(0 0)" fill="url(#linear-gradient)"/>
+</svg>

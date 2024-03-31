@@ -1,0 +1,98 @@
+.footer {
+  background-color: $footer-bg;
+  &__top {
+    padding-top: 60px;
+    padding-bottom: 40px;
+    @include mq(xl) {
+      padding-bottom: 120px;
+    }
+    &--logo {
+      margin-bottom: 30px;
+      width: fit-content;
+      img {
+        width: 70px;
+      }
+      p {
+        font-size: 35px;
+      }
+    }
+  .footer-col:last-of-type {
+    margin-bottom: 0 !important;
+  }
+
+    &--social {
+      @include mq(md) {
+        padding-left: 10px !important;
+      }
+    }
+
+    &--links {
+      &__head {
+        font-size: 18px;
+        font-family: $main-font, sans-serif;
+        font-weight: 400;
+        color: $text-color;
+        text-transform: uppercase;
+        margin-bottom: 7px;
+      }
+    }
+    &--link {
+      font-size: 14px;
+      margin-bottom: 8px;
+      text-transform: uppercase;
+      &.custom-line-height {
+        line-height: 2;
+      }
+      &.contact {
+        text-transform: none;
+        display: flex;
+        align-items: center;
+        gap: 0 10px;
+        span {
+          width: 30px;
+          height: 30px;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          border-radius: 4px;
+        }
+      }
+      a {
+        transition: .2s;
+        color: $text-color;
+        &:hover{
+          color: $main-color;
+        }
+      }
+      .gmbh {
+        text-transform: none !important;
+      }
+    }
+  }
+
+  &__bottom {
+    padding: 20px 0;
+    &--copyrights {
+      color: $black-200;
+      font-size: 14px;
+    }
+    &--legal-links {
+      gap: 0 40px;
+      li {
+        a {
+          color: $black-200;
+          transition: .2s;
+          &:hover {
+            color: $main-color;
+          }
+        }
+      }
+    }
+    .langs__current {
+      color: $black-200;
+    }
+    button .v-icon {
+      color: $black-200;
+    }
+  }
+}

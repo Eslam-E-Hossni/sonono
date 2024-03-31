@@ -1,0 +1,55 @@
+.langs {
+  position: relative;
+  max-width: fit-content;
+  &__current {
+    text-transform: uppercase;
+  }
+  .arrow-icon {
+    &.active {
+      transform: rotate(180deg);
+    }
+  }
+  &__menu {
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    top: -90px;
+    left: 50%;
+    background-color: #fff;
+    padding: 7px 7px;
+    width: 110px;
+    box-shadow: 1px 1px 5px rgba($color: #000000, $alpha: .2);
+    visibility: hidden;
+    opacity: 0;
+    transform: translate(-50%, 50%);
+    transition: .2s;
+    &.active {
+      visibility: visible;
+      opacity: 1;
+      transform: translate(-50%, 0);
+    }
+    &.bottom {
+      top: unset;
+      bottom: -90px;
+    }
+    button {
+      display: block;
+      padding: 5px;
+      text-align: left;
+      display: flex;
+      align-items: center;
+      gap: 0 5px;
+      transition: .2s;
+      &:hover {
+        opacity: .7;
+      }
+      img {
+        width: 18px;
+      }
+      span {
+        text-transform: capitalize;
+        font-size: 14px;
+      }
+    }
+  }
+}

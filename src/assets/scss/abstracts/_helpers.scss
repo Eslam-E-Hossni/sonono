@@ -1,0 +1,31 @@
+.flex-align {
+  display: flex;
+  align-items: center;
+}
+
+.section-p {
+  padding: 60px 0;
+}
+
+.section-to-top {
+  position: relative;
+  z-index: 50;
+}
+
+.sticky-section {
+  .sonono-logo {
+    position: absolute !important;
+  }
+}
+
+.bg-gray {
+  background-color: #e8eaec;
+}
+
+.pt {
+  padding-top: 100px;
+}
+
+a.nuxt-link-exact-active {
+  color: $main-color !important;
+}
